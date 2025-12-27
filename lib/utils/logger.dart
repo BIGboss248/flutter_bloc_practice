@@ -57,3 +57,7 @@ Future<void> initializeLogger() async {
     );
   }
 }
+
+extension Log on Object {
+  void log() => logger.i(toString());
+}
