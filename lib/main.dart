@@ -3,7 +3,6 @@ import 'package:flutter_bloc_practice/bloc/person/person_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc_practice/bloc/person/person_event.dart';
 import 'package:flutter_bloc_practice/bloc/person/person_state.dart';
-import 'package:flutter_bloc_practice/models/person.dart';
 import 'package:flutter_bloc_practice/utils/logger.dart';
 import 'package:go_router/go_router.dart';
 
